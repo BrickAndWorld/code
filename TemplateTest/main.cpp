@@ -4,7 +4,7 @@
 
 int main()
 {
-	double d1 = 8.32, d2 = -0.97;
+	double d1 = 8.32, d2 = -0.44;
 	//Ä£°åº¯Êý
 	mySwap<double>(d1, d2);
 	std::cout << "d1 = " << d1 << ", d2 = " << d2 << std::endl;
